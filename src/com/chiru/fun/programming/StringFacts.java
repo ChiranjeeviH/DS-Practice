@@ -1,6 +1,6 @@
 package com.chiru.fun.programming;
 
-public class Main {
+public class StringFacts {
 
     static boolean isHelloWord(String str) { 
         return str == "Hello World"; // scary code (@see https://www.codingame.com/playgrounds/1097/the-most-common-java-pitfalls)
