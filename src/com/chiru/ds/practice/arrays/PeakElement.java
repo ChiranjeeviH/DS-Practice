@@ -24,7 +24,7 @@ its only neighbour element 3.
  * 
  * 
  */
-package com.chiru.ds.practice.Arrays;
+package com.chiru.ds.practice.arrays;
 
 public class PeakElement {
 	int output=0;
