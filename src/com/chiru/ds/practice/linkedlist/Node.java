@@ -1,6 +1,6 @@
 package com.chiru.ds.practice.linkedlist;
 
-public class Node<E> {
+/*public class Node<E> {
 
     E data;
 
@@ -11,4 +11,4 @@ public class Node<E> {
         this.next=null;
     }
 
-}
+}*/
